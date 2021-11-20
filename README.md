@@ -1,7 +1,5 @@
 # Reddit_Bot
 This Bot displays LIVE count of Upvotes/Downvotes on your latest post on Reddit.
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="harsh-pradhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/harsh-pradhan?trk=profile-badge">Harsh Pradhan</a></div>
               
 ## Prerequisites for Running Source Code
 1. Google Chrome Web Browser
